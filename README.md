@@ -1,0 +1,1 @@
+Contiq is an application that allows users to upload pitch decks in formats such as PDFs from local devices or cloud services like Google Drive. Users can view files uploaded by themselves or others, and the application enables content-based searches to locate specific files based on their content.
